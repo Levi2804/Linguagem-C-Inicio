@@ -4,10 +4,12 @@
 int main(){
 	setlocale(LC_ALL,"Portuguese");
 	int n;
-	printf("Digite um n�mero inteiro: ");
+	//Aqui, a pessoa digita um número inteiro qualquer.
+	printf("Digite um número inteiro: ");
 	scanf("%i", &n);
-	
-	printf("O antecessor de %i � %i", n, n - 1);
-	printf("\nO sucessor de %i � %i", n, n + 1);
+
+	//Nesse ponto, o código usa o número escolhido para mostrar o seu antecessor e sucessor. 
+	printf("O antecessor de %i é %i", n, n - 1);
+	printf("\nO sucessor de %i é %i", n, n + 1);
 	return(0);
 }
