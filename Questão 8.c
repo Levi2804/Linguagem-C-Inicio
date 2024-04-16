@@ -9,6 +9,6 @@ int main(){
 	
 	d = i * 365;
 	
-	printf("Você viveu aproximadamente %.1f dias!", d);
+	printf("VocÃª viveu aproximadamente %.1f dias!", d);
 	return(0);
 }
