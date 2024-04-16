@@ -9,6 +9,6 @@ int main(){
 	
 	f = (c * 1.8) + 32;
 	
-	printf("A temperatura em Fahrenheit é: %.1f °F", f);
+	printf("A temperatura em Fahrenheit Ã©: %.1f Â°F", f);
 	return(0);
 }
