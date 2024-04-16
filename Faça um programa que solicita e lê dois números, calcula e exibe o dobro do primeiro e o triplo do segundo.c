@@ -1,6 +1,9 @@
 #include<stdio.h>
 #include<locale.h>
-
+/*
+Faça um programa que solicita e lê dois números, calcula e exibe o dobro do
+primeiro e o triplo do segundo.
+*/
 int main(){
 	setlocale(LC_ALL, "Portuguese");
 	int a, b;
