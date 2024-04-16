@@ -13,7 +13,7 @@ int main(){
 	
 	v = c * l * a;
 	
-	printf("\nO volume da caixa retangular é: %.1f m³", v);
+	printf("\nO volume da caixa retangular Ã©: %.1f mÂ³", v);
 		
 	return(0);
 }
