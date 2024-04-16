@@ -12,7 +12,7 @@ int main(){
 	
 	imc = p/pow(a,2);
 	
-	printf("O seu IMC é: %.2f", imc);
+	printf("O seu IMC Ã©: %.2f", imc);
 	
 	return(0);
 }
