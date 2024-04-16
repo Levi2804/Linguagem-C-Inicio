@@ -11,7 +11,7 @@ int main(){
 	
 	a = Pi * pow(r,2);
 	
-	printf("A área da circunferência é: %.2f", a);
+	printf("A Ã¡rea da circunferÃªncia Ã©: %.2f", a);
 	
 	return(0);
 }
