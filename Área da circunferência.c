@@ -2,7 +2,12 @@
 #include<locale.h>
 #include<math.h>
 #define Pi 3.14
-
+/*
+Elabore um programa que calcula a área de uma circunferência. Para isto, utilize a
+seguinte fórmula:
+𝐴 = 𝜋*𝑟²
+O valor do raio deve ser fornecido pelo usuário.
+*/
 int main(){
 	setlocale(LC_ALL, "Portuguese");
 	float r, a;
