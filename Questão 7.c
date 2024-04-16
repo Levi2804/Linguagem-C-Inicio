@@ -5,9 +5,9 @@
 int main(){
 	setlocale(LC_ALL, "Portuguese");
 	float n;
-	printf("Digite um número: ");
+	printf("Digite um nÃºmero: ");
 	scanf("%f", &n);
 	
-	printf("\nO cubo de %.1f é %.1f", n, pow(n, 3));
+	printf("\nO cubo de %.1f Ã© %.1f", n, pow(n, 3));
 	return(0);
 }
